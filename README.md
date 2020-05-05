@@ -1,2 +1,2 @@
 # HomelessServices
-Provide resouuces for the homeless
+Provide resources for the homeless
